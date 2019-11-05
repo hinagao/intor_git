@@ -3,3 +3,4 @@ learn base
 git add
 git commit
 removed
+git status
