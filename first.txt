@@ -2,3 +2,4 @@ gitTraining
 learn base
 git add
 git commit
+removed
